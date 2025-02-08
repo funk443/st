@@ -4,6 +4,7 @@
 
 include config.mk
 
+PREFIX=/home/id/.local
 SRC = st.c x.c
 OBJ = $(SRC:.c=.o)
 
