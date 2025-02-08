@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font =
-    "Iosevka:weight=regular:pixelsize=32:antialias=true:autohint=true";
+    "Iosevka Term:style=regular:pixelsize=32:antialias=true:autohint=true";
 
 static int borderpx_top = 0;
 static int borderpx_bottom = 0;
